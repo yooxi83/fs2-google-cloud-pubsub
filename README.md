@@ -1,5 +1,6 @@
 # fs2-google-cloud-pubsub
-[![Build Status](https://travis-ci.org/hyjay/fs2-google-cloud-pubsub.svg?branch=master)](https://travis-ci.org/hyjay/fs2-google-cloud-pubsub)  
+[![Build Status](https://travis-ci.org/hyjay/fs2-google-cloud-pubsub.svg?branch=master)](https://travis-ci.org/hyjay/fs2-google-cloud-pubsub)
+[![Maven Central](https://img.shields.io/maven-central/v/com.github.hyjay/fs2-google-cloud-pubsub_2.12.svg)](http://search.maven.org/#search%7Cga%7C1%7Cfs2-google-cloud-pubsub)
 
 A developer-first Google cloud Pub/Sub client in Scala, based on [the official Google cloud Java client library](https://github.com/googleapis/google-cloud-java/tree/master/google-cloud-clients/google-cloud-pubsub).
 
