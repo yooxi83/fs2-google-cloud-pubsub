@@ -1,6 +1,8 @@
 # fs2-google-cloud-pubsub
 A developer-first Google cloud Pub/Sub client in Scala, based on [the official Google cloud Java client library](https://github.com/googleapis/google-cloud-java/tree/master/google-cloud-clients/google-cloud-pubsub).
 
+[![Build Status](https://travis-ci.org/hyjay/fs2-google-cloud-pubsub.svg?branch=master)](https://travis-ci.org/hyjay/fs2-google-cloud-pubsub)
+
 ## Getting Started
 #### Publishing messages
 With the library you can publish messages to a topic with Publisher which automatically will create the topic for you.
