@@ -50,6 +50,12 @@ val printMessages = Subscriber.create("YOUR_PROJECT_ID", "YOUR_SUBSCRIPTION").su
 printMessages.unsafeRunSync()
 ```
 
+## Dependencies
+Add this to your `build.sbt`:
+```
+libraryDependencies += "com.github.hyjay" %% "fs2-google-cloud-pubsub" % Version
+```
+
 ## Testing
 If you want to run the test code in this library, set GOOGLE_APPLICATION_CREDENTIALS envvar to a file location of
 google application credential json file.  
